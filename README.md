@@ -1,4 +1,4 @@
-Hi 👋 My name is Arjun A
+Hi 👋 My name is Arjun
 ========================
 
 Full Stack Developer
