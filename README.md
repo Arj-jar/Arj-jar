@@ -4,7 +4,7 @@ Hi 👋 This is Arjun
 Full Stack Developer
 --------------------
 
-I've been coding since 2019 and Love SQL
+I've been coding since 2019 and Love .Py
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [YetToCreate](http://cinqflex.com)
