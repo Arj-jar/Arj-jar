@@ -4,13 +4,11 @@ Hi 👋 This is Arjun
 Full Stack Developer
 --------------------
 
-I've been coding since 2019 and Love .Py
+I've been coding since 2017 and Love .Py
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [YetToCreate](http://cinqflex.com)
 * ✉️  You can contact me at [arj1.adhi@gmail.com](mailto:arj1.adhi@gmail.com)
-* 🚀  I'm currently working on [Angular](http://wishmaker.com)
-* 🧠  I'm learning Data Structures and Algorithms
+* 🚀  I'm currently working on [SAP BTP](http://wishmaker.com)
 * 🤝  I'm open to collaborating on Mini Projects
 * ⚡  I'm secretly working on Alien Tech !! feel free to ping about it
 
